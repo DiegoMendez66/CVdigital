@@ -1,0 +1,64 @@
+body {
+	font-family: Verdana;
+}
+
+.navegation{
+	font-size: 20px;
+	font-weight: bold;
+	background: #B2BABB;
+}
+
+#img1{
+	border: solid;
+	border-radius: 60px;
+}
+
+.navbar-nav{
+	margin-left: auto;
+}
+
+.p1{
+	
+}
+
+header{
+	margin-top: 80px;
+}
+
+#experiencia{
+	
+	padding: 50px 0 30px 0;
+	text-align: center;
+	margin-top: 40px;
+	background: #B2BABB;
+}
+
+.card-header{
+	background:#F5C27E;
+}
+
+.centrar-listas{
+	text-align: center;
+}
+
+.centrar-listas ul, .centrar-listas ol{
+	text-align: left;
+	display: inline-block;
+}
+
+
+#contacto{
+	background: #B2BABB; 
+
+}
+
+.form-control{
+	background: #FAD7A0;
+	border-radius: 10px;
+	border: 2px solid #000000;
+}
+
+.formulario{
+	background: #f1f1f1;
+	box-shadow: 7px 13px 37px #000;
+}
